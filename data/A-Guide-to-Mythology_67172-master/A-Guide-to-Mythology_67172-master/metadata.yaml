@@ -1,0 +1,35 @@
+_repo: A-Guide-to-Mythology_67172
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67172-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clarke, Helen A. (Helen Archibald)
+    alias: Clarke, Helen Archibald
+    birthdate: 1860
+    deathdate: 1926
+    gutenberg_agent_id: '5638'
+    url: http://www.gutenberg.org/2009/agents/5638
+    wikipedia: https://en.wikipedia.org/wiki/Helen_A._Clarke
+description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67172#A-Guide-to-Mythology
+gutenberg_issued: '2022-01-15'
+identifiers:
+  gutenberg: '67172'
+language: en
+pgterms:marc904: https://archive.org/details/guidetomythologyg00clar/page/264/mode/2up
+pgterms:marc905: 20200407202401clarke
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Doubleday, Page & Company,1908,reprint 1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Guide to Mythology
+url: http://www.gutenberg.org/ebooks/67172
