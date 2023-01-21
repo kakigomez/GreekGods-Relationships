@@ -3,6 +3,6 @@ This repository contains two jupyter notebooks for analyzing the relationship dy
 
 Techniques Used:
 * Web-scraping using HTML & Selenium and Beautiful Soup libraries
-* Named Entity Recognition, a form of NLP, using Spacy and Networkx
+* [Named Entity Recognition](https://www.geeksforgeeks.org/named-entity-recognition/), a form of NLP, using Spacy and Networkx
 * Data Analysis using Pandas and Numpy
 * Data Visualizations using Matplotlib
